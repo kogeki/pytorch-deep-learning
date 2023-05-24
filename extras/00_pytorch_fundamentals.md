@@ -276,7 +276,7 @@ MATRIX.ndim
 
 
 
-`MATRIX` has two dimensions (did you count the number of square brakcets on the outside of one side?).
+`MATRIX` has two dimensions (did you count the number of square brackets on the outside of one side?).
 
 What `shape` do you think it will have?
 
